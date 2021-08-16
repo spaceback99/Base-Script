@@ -1,0 +1,2 @@
+# Base-Script
+Script penting
